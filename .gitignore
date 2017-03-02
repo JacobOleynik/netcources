@@ -1,3 +1,8 @@
 /WizardImitator/WizardImitator/obj
 /WizardImitator/WizardImitator/bin
 /WizardImitator/*.suo
+
+/StructureMapTester/StructureMapTester/obj
+/StructureMapTester/StructureMapTester/bin
+/StructureMapTester/packages
+/StructureMapTester/*.suo
